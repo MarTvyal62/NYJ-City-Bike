@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Big files
+data/citibike/JC/JC2025_Enriched.csv
+data/citibike/JC/JC2025.csv
