@@ -220,5 +220,7 @@ __marimo__/
 # Big files
 data/JC/JC2025_Enriched.csv
 data/JC/JC2025.csv
+data/JC/JC2026.csv
+data/JC/JC2025_2026.csv
 
 postgis_data/
