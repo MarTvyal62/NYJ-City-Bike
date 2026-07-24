@@ -44,6 +44,12 @@ def download_jersey_tripdata_zip_and_extract_to_local(periods:list, base_url:str
         print(f'{file_name}  Extracted')
         zip_path.unlink()
         print(f"{file_name} removed.")
+        
+        
+def remove_prefix(text, prefix):
+    if isinstance(text, str) and text.startswith(prefix):
+        return text[len(prefix):]
+    return text
 
 
 
