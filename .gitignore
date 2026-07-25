@@ -224,3 +224,5 @@ data/JC/JC2026.csv
 data/JC/JC2025_2026.csv
 
 postgis_data/
+
+notebooks/7_SQLAlchemy.ipynb
