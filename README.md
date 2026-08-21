@@ -1,8 +1,8 @@
 # 🚲 Jersey City Citi Bike Operational Analytics Pipeline
 
-[![Live Presentation](https://shields.io)](https://github.io)
-[![Interactive Dashboard](https://shields.io)](https://tableau.com)
-[![Python Pipeline](https://shields.io)](https://github.com)
+[![Live Presentation](https://shields.io)](https://martvyal62.github.io/presentation/)
+[![Interactive Dashboard](https://shields.io)](https://public.tableau.com/app/profile/marine.petrosyan/viz/citibike_with_db/CitiBikeJerseyCityDashboard)
+[![Python Pipeline](https://shields.io)](https://github.com/MarTvyal62/NYJ-City-Bike/tree/main/notebooks)
 
 ## 📌 Executive Summary
 An end-to-end data science and business intelligence pipeline that automates data ingestion, cleaning, cross-domain API enrichment, and geospatial density mapping for over multi-period transit transaction logs. This project explicitly demonstrates how raw, unstructured commuter logs can be programmatically engineered to uncover critical operational bottlenecks and weather-driven user behavioral shifts.
@@ -10,9 +10,9 @@ An end-to-end data science and business intelligence pipeline that automates dat
 ---
 
 ## 🚀 Interactive Deliverables
-*   **📊 Web Data Story (Reveal.js):** [Launch the Live Presentation](https://github.io)  
+*   **📊 Web Data Story (Reveal.js):** [Launch the Live Presentation](https://martvyal62.github.io/presentation/)  
     *An interactive, slide-based strategic business proposal detailing transaction speeds, system volume anomalies, and user trend diagnostics.*
-*   **📈 BI Dashboard (Tableau):** [View Production Visualization Track](https://tableau.com)  
+*   **📈 BI Dashboard (Tableau):** [View Production Visualization Track](https://public.tableau.com/app/profile/marine.petrosyan/viz/citibike_with_db/CitiBikeJerseyCityDashboard)  
     *Executive management tracking views leveraging advanced LOD expressions, analytical parameters, and transactional filter toggles.*
 
 ---
