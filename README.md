@@ -2,7 +2,7 @@
 
 [![Live Presentation](https://img.shields.io/badge/live_presentation-A776AB)](https://martvyal62.github.io/presentation/)
 [![Interactive Dashboard](https://img.shields.io/badge/tableau-interactive_dashboard-green?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/marine.petrosyan/viz/citibike_with_db/CitiBikeJerseyCityDashboard)
-[![Python Pipeline](https://img.shields.io/badge/python-pipeline-3776AB?logo=python&logoColor=white)](https://github.com/MarTvyal62/NYJ-City-Bike/tree/main/notebooks)
+[![Python Pipeline](https://img.shields.io/badge/python-pipeline-3776AB?logo=python&logoColor=white)](https://github.com/MarTvyal62/NYJ-City-Bike/blob/main/notebooks/6_Data_to_PostgreSQL%26PostGIS.ipynb)
 
 
 ## 📌 Executive Summary
