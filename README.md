@@ -1,8 +1,9 @@
 # 🚲 Jersey City Citi Bike Operational Analytics Pipeline
 
-[![Live Presentation](https://shields.io)](https://martvyal62.github.io/presentation/)
-[![Interactive Dashboard](https://shields.io)](https://public.tableau.com/app/profile/marine.petrosyan/viz/citibike_with_db/CitiBikeJerseyCityDashboard)
-[![Python Pipeline](https://shields.io)](https://github.com/MarTvyal62/NYJ-City-Bike/tree/main/notebooks)
+[![Live Presentation](https://img.shields.io/badge/live_presentation-A776AB)](https://martvyal62.github.io/presentation/)
+[![Interactive Dashboard](https://img.shields.io/badge/tableau-interactive_dashboard-green?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/marine.petrosyan/viz/citibike_with_db/CitiBikeJerseyCityDashboard)
+[![Python Pipeline](https://img.shields.io/badge/python-pipeline-3776AB?logo=python&logoColor=white)](https://github.com/MarTvyal62/NYJ-City-Bike/tree/main/notebooks)
+
 
 ## 📌 Executive Summary
 An end-to-end data science and business intelligence pipeline that automates data ingestion, cleaning, cross-domain API enrichment, and geospatial density mapping for over multi-period transit transaction logs. This project explicitly demonstrates how raw, unstructured commuter logs can be programmatically engineered to uncover critical operational bottlenecks and weather-driven user behavioral shifts.
